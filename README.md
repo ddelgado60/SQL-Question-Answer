@@ -1,1 +1,2 @@
-# nlp-projects
+# Sequence-to-Sequence SQL Generator
+
